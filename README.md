@@ -1,4 +1,4 @@
-identity_editable_gan/README.md
+README.md
 # Identity Editable GAN
 
 This project demonstrates a GAN-based pipeline for identity-preserving high-resolution face generation, guided by textual prompts (e.g., "smiling face").
